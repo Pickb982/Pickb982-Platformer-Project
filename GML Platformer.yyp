@@ -45,6 +45,7 @@
     {"id":{"name":"spr_player_run","path":"sprites/spr_player_run/spr_player_run.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
+    {"id":{"name":"til_walls","path":"tilesets/til_walls/til_walls.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
